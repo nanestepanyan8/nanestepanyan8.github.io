@@ -1,0 +1,46 @@
+body {
+ font-family; Arial, sans-serif;
+ margin: 20px 40px  60px  80px;
+background-color: antiquewhite;
+
+}
+
+section{
+
+   background-color: rgb(233, 217, 197);
+    color:rgb(10, 10, 10);
+    text-align: center;
+}
+
+section article p {
+
+  background-color: rgb(238, 222, 202);
+}
+
+section > p {
+background-color: rgb(247, 233, 215);
+color:rgb(7, 9, 19);
+
+}
+
+article {
+
+   background-color: rgb(240, 240, 222);
+    font-size: 16px;
+}
+
+#news{
+background-color: rgb(4, 177, 168);
+
+}
+
+
+short-text{
+
+   display: inline;  
+}
+
+lorem-ipsum {
+    text-align: justify;
+}
+
